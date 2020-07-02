@@ -1,0 +1,26 @@
+{
+  "name": "hyper-sonoran-sunrise",
+  "version": "1.0.0",
+  "description": "A lighter color scheme for the Hyper terminal based off the SonoraBuild Minecraft server, with influence from Solarized Light.",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "theme",
+    "ui",
+    "terminal",
+    "sonora",
+    "desert chic",
+    "light theme",
+    "subtle",
+    "minimal"
+  ],
+  "author": "Devon M",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d-mckee/hyper-sonoran-sunrise"
+  }
+}
