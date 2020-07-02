@@ -12,7 +12,7 @@ with influence from Solarized Light.
 
 **Main Course**
 
-[Hyper]()
+[Hyper](https://www.npmjs.com/package/hyper-sonoran-sunrise)
 
 [VS Code (Soon to come...)]()
 
