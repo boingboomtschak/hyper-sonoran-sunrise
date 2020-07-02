@@ -27,11 +27,27 @@ exports.decorateConfig = config =>
     colors,
 	css: `
 		${config.css || ''}
-		.tab_tab.tab_active {
+	  	* {
+			text-rendering: optimizeLegibility;
+		}
+		.tab_tab {
+			border-color: rgba(102, 94, 75, 0.7);
+			background-color: #EAEBD5;
 			color: #665E4B;
+		}
+	  	.tab_tab.tab_active {
+			background-color: #F9FAE3;
+			color: #665E4B;
+			font-weight: bold;
 		}
 		.header_appTitle {
 			color: #665E4B;
+		}
+	  	.header_shape {
+			color: #665E4B;
+		}
+	  	.splitpane_divider {
+			background-color: rgba(102, 94, 75, 0.7);
 		}
 	`
   });
