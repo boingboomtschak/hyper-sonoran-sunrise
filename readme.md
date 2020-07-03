@@ -8,13 +8,19 @@ with influence from Solarized Light.
 
 **Appetizer**
 
+MacOS Preview:
+
 ![Preview](images/preview.png)
+
+Windows 10 Preview:
+
+![Preview](images/preview-win.png)
 
 **Main Course**
 
 [Hyper](https://www.npmjs.com/package/hyper-sonoran-sunrise)
 
-[VS Code (Soon to come...)]()
+[VS Code (Soon to come...)](https://github.com/d-mckee/hyper-sonoran-sunrise)
 
 **Dessert**
 
