@@ -1,6 +1,6 @@
 {
   "name": "hyper-sonoran-sunrise",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A lighter color scheme for the Hyper terminal based off the SonoraBuild Minecraft server, with influence from Solarized Light.",
   "license": "MIT",
   "files": [
