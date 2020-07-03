@@ -33,14 +33,11 @@ exports.decorateConfig = config =>
 				color: #665E4B;
 			}
 	  		.tab_tab.tab_active {
-					background-color: #F9FAE3;
-					color: #665E4B;
-					font-weight: bold;
+				background-color: #F9FAE3;
+				color: #665E4B;
+				font-weight: bold;
 			}
 			.header_appTitle {
-				color: #665E4B;
-			}
-	  		.header_shape {
 				color: #665E4B;
 			}
 	  		.splitpane_divider {
@@ -57,6 +54,7 @@ exports.decorateConfig = config =>
 			}
 			.notifications_view * {
 				color: #665E4B;
+				background-color: #EAEBD5;
 			}
 
 		`
