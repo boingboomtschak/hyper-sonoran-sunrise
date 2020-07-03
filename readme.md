@@ -1,28 +1,30 @@
 ## Sonoran Sunrise
 
 
-**Amuse-bouche**
+### Amuse-bouche
 
 Light, sandier shades punctuated by punchier sun-bleached accent colors. A color scheme for the Hyper terminal based off the SonoraBuild Minecraft server, 
 with influence from Solarized Light.
 
-**Appetizer**
-
-MacOS Preview:
+### Appetizer
 
 ![Preview](images/preview.png)
 
-Windows 10 Preview:
+### Main Course
 
-![Preview](images/preview-win.png)
+**Package install (npm)**
 
-**Main Course**
+[npm Package link](https://www.npmjs.com/package/hyper-sonoran-sunrise)
 
-[Hyper](https://www.npmjs.com/package/hyper-sonoran-sunrise)
+Open the Hyper preferences file (either through the context menu, or at `~/.config/Hyper/.hyper.js` on \*nix systems), go to `plugin: []`, and add 'hyper-sonoran-sunrise' like so: `plugin: ['hyper-sonoran-sunrise']`. Save the file and reload Hyper (if necessary).
 
-[VS Code (Soon to come...)](https://github.com/d-mckee/hyper-sonoran-sunrise)
+**Manual install (local):**
 
-**Dessert**
+Clone this repository to `~/.config/Hyper/.hyper_plugins/local/` on \*nix systems, or `C:\Users\<user>\AppData\Roaming\Hyper\.hyper_plugins\local\` on Windows systems, then reload Hyper (if necessary).
+
+### Dessert
+
+[VS Code Theme (Soon to come...)](https://github.com/d-mckee/hyper-sonoran-sunrise)
 
 Credits to [Solarized (Light)](https://ethanschoonover.com/solarized/) by Ethan Schoonover for inspiration.
 
